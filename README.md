@@ -9,3 +9,4 @@ Social media platforms like Twitter are rich sources of public opinion. This pro
 
 **Conclusion**
 This project highlights the use of natural language processing and machine learning for sentiment analysis. Applications of this system include real-time feedback analysis, social media monitoring, and market sentiment evaluation.
+
